@@ -1,5 +1,5 @@
----
-Title: 'Links'
+
+Title: 'Link'
 Description: 'Links are used in HTML to add features to a web page including styling, functionality, hyperlinks, and navigation.'
 Subjects:
   - 'Web Development'
